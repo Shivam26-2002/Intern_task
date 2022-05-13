@@ -1,0 +1,23 @@
+.radio-body{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    vertical-align: middle;
+    margin-bottom: 1em;
+}
+
+.item{
+    flex-basis: 60px;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+/* .radio-main
+{
+    display: flex;
+    align-items: center;
+    
+} */
+/* .size{
+    width: 120px;
+} */

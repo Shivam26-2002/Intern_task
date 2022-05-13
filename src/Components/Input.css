@@ -1,0 +1,15 @@
+.input-body{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+.label-style{
+    margin-left: 5em;
+    margin-right: 1em;
+    font-size: 18px;
+}
+.input-style{
+    width: 4em;
+}
